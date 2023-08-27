@@ -19,7 +19,9 @@
     "url": "https://github.com/ChattersonR/screeps-scripts/issues"
   },
   "homepage": "https://github.com/ChattersonR/screeps-scripts#readme",
-  "dependencies": {
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-cli": "^1.4.3",
     "grunt-screeps": "^1.5.0"
   }
 }
