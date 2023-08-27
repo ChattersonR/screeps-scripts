@@ -1,0 +1,25 @@
+{
+  "name": "screeps-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for the game Screeps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChattersonR/screeps-scripts.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChattersonR/screeps-scripts/issues"
+  },
+  "homepage": "https://github.com/ChattersonR/screeps-scripts#readme",
+  "dependencies": {
+    "grunt-screeps": "^1.5.0"
+  }
+}
